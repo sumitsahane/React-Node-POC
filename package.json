@@ -10,7 +10,7 @@
     "server": "nodemon src/server/index.js",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Sandeep Raveesh",
+  "author": "Sumit Sahane",
   "license": "ISC",
   "dependencies": {
     "@material-ui/core": "^1.4.2",
